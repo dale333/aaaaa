@@ -1,0 +1,11 @@
+-學生專案使用
+https://education.github.com/pack
+
+-linkedin ppt
+https://www.slideshare.net/pokaichang72/git-42427674
+
+-下載Git文字視窗使用
+https://git-scm.com/download/win
+
+-Git介面板使用
+https://desktop.github.com/
